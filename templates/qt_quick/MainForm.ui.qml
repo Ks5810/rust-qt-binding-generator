@@ -1,34 +1,58 @@
-import QtQuick 2.6
+import QtQuick 2.5
+import QtQuick.Window 2.2
 import RustCode 1.0
 
-Rectangle {
-    property alias mouseArea: mouseArea
-    property alias textEdit: textEdit
+Window {
+    width: 512
+    height: 512
+    visible: true
 
-    Simple {
-        id: rust
+    // here is our Rust time
+    Time {
+        id: time
     }
 
-    width: 360
-    height: 360
-
-    MouseArea {
-        id: mouseArea
+    // the clock face
+    Image {
         anchors.fill: parent
+        source: "project.svg"
+        fillMode: Image.PreserveAspectFit
+        transform: Rotation {
+            origin.x: width / 2
+            origin.y: height / 2
+            angle: time.second * 6 // convert seconds to degrees
+        }
     }
-
-    TextEdit {
-        id: textEdit
-        text: rust.message
-        verticalAlignment: Text.AlignVCenter
-        anchors.top: parent.top
-        anchors.horizontalCenter: parent.horizontalCenter
-        anchors.topMargin: 20
-        Rectangle {
-            anchors.fill: parent
-            anchors.margins: -10
-            color: "transparent"
-            border.width: 1
+    // the minute hand
+    Rectangle {
+        id: minute
+        x: (parent.width - width) / 2
+        y: 0
+        width: parent.width / 100
+        height: parent.height / 1.8
+        radius: width
+        color: "#33F4C3"
+        transform: Rotation {
+            origin.x: hour.width / 2
+            origin.y: height / 2
+            // convert minutes to degrees
+            angle: time.minute * 6
+        }
+    }
+    // the hour hand
+    Rectangle {
+        id: hour
+        x: (parent.width - width) / 2
+        y: parent.height / 6
+        width: parent.width / 50
+        height: parent.height / 2.8
+        radius: width
+        color: "#33F4C3"
+        transform: Rotation {
+            origin.x: hour.width / 2
+            origin.y: height / 3
+            // convert hours to degrees
+            angle: time.hour * 30 + time.minute / 2
         }
     }
 }

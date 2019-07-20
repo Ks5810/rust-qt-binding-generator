@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec91bcb4-62fb-4bc6-8a7a-8d3d2b6a6dfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/3.10.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/3.10.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/3.10.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/3.10.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/3.10.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/MyExe_autogen/EWIEGA46WW/qrc_qml.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/MyExe_autogen/mocs_compilation.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/src/Bindings.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe.dir/src/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe_autogen.dir/AutogenInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe_autogen.dir/AutogenOldSettings.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe_autogen.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe_autogen.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe_autogen.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe_autogen.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe_autogen.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/MyExe_autogen.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/rust_target.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/rust_target.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/rust_target.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/rust_target.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/rust_target.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/CMakeFiles/rust_target.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/MyExe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/MyExe_autogen/EWIEGA46WW/qrc_qml.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/MyExe_autogen/UVLADIE3JM/moc_Bindings.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/MyExe_autogen/moc_predefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/MyExe_autogen/mocs_compilation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt_quick/build/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt_quick/MainForm.ui.qml" beforeDir="false" afterPath="$PROJECT_DIR$/qt_quick/MainForm.ui.qml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt_quick/bindings.json" beforeDir="false" afterPath="$PROJECT_DIR$/qt_quick/bindings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt_quick/main.qml" beforeDir="false" afterPath="$PROJECT_DIR$/qt_quick/main.qml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt_quick/qml.qrc" beforeDir="false" afterPath="$PROJECT_DIR$/qt_quick/qml.qrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt_quick/rust/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/qt_quick/rust/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt_quick/rust/src/implementation.rs" beforeDir="false" afterPath="$PROJECT_DIR$/qt_quick/rust/src/implementation.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt_quick/rust/src/interface.rs" beforeDir="false" afterPath="$PROJECT_DIR$/qt_quick/rust/src/interface.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt_quick/rust/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/qt_quick/rust/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt_quick/src/Bindings.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/qt_quick/src/Bindings.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt_quick/src/Bindings.h" beforeDir="false" afterPath="$PROJECT_DIR$/qt_quick/src/Bindings.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qt_quick/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/qt_quick/src/main.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/qt_quick/rust/src/interface.rs">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="577">
+                    <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/qt_quick/rust/src/implementation.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#821#822#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+                <element signature="e#887#888#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qt_quick/rust/src/lib.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/qt_quick/rust/src/interface.rs" />
+        <option value="$PROJECT_DIR$/qt_quick/rust/src/implementation.rs" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="SGvyFVcz" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/templates.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="y" value="30" />
+    <option name="width" value="960" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="templates" type="b2602c69:ProjectViewProjectNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="templates" type="b2602c69:ProjectViewProjectNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="qt_quick" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="templates" type="b2602c69:ProjectViewProjectNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="qt_quick" type="462c0819:PsiDirectoryNode" />
+              <item name="rust" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="templates" type="b2602c69:ProjectViewProjectNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="qt_quick" type="462c0819:PsiDirectoryNode" />
+              <item name="rust" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="30" width="960" height="1050" extended-state="5" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Cargo" />
+      <window_info anchor="right" id="JSON Viewer" />
+      <window_info anchor="right" id="Json Parser" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qt_quick/rust/src/lib.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qt_quick/rust/src/implementation.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qt_quick/rust/src/interface.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

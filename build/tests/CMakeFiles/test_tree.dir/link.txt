@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_tree.dir/test_tree.cpp.o CMakeFiles/test_tree.dir/test_tree_rust.cpp.o CMakeFiles/test_tree.dir/test_tree_autogen/mocs_compilation.cpp.o  -o test_tree /usr/lib/x86_64-linux-gnu/libQt5Test.so.5.9.5 ../../tests/rust_tree/target/release//librust.a /usr/lib/x86_64-linux-gnu/libdl.so /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.9.5 -lpthread 
