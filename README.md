@@ -1,3 +1,16 @@
+##Clock using the template in qt_quick folder
+
+
+
+
+
+
+
+
+
+----------------------------Original README.md--------------------------------
+
+
 # Rust Qt Binding Generator
 
 ![Rust Qt Binding](demo/rust_qt_binding_generator.svg)
